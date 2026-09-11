@@ -7,7 +7,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=HELLO%2C+WORLD.;I'M+AADESH_KASWAN.;FULL-STACK+DEVELOPER.;DESIGNER+%26+BUILDER."
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=HELLO%2C+WORLD.;I'M+AADESH+KASWAN.;FULL-STACK+DEVELOPER.;DESIGNER+%26+BUILDER."
   alt="Typing Header"
 />
 
@@ -20,7 +20,7 @@
 
 <br><br>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kaswanaadesh@gmail.com">
 <img src="https://img.shields.io/badge/MAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 
@@ -203,7 +203,7 @@ Unreal Engine
 <br>
 
 <img
-  src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/AadeshKaswan/AadeshKaswan/output/github-contribution-grid-snake-dark.svg"
   alt="Contribution Snake"
 />
 
