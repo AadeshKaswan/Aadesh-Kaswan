@@ -35,7 +35,7 @@
 <br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0D0D0D&label=PROFILE+VIEWS"
+  src="https://komarev.com/ghpvc/?username=AadeshKaswan&style=for-the-badge&color=0D0D0D&label=PROFILE+VIEWS"
   alt="Profile Views"
 />
 
