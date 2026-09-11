@@ -7,7 +7,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=HELLO%2C+WORLD.;I'M+YOUR_NAME.;FULL-STACK+DEVELOPER.;DESIGNER+%26+BUILDER."
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=HELLO%2C+WORLD.;I'M+AADESH_KASWAN.;FULL-STACK+DEVELOPER.;DESIGNER+%26+BUILDER."
   alt="Typing Header"
 />
 
