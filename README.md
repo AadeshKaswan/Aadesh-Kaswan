@@ -390,13 +390,13 @@ A small third-person action experience exploring **Unreal Engine, level design a
 <br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&rank_icon=github&custom_title=GitHub%20Activity"
+  src="https://github-readme-stats.vercel.app/api?username=AadeshKaswan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&rank_icon=github&custom_title=GitHub%20Activity"
   height="180"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&short_numbers=true"
+  src="https://streak-stats.demolab.com?user=AadeshKaswan&theme=transparent&hide_border=true&short_numbers=true"
   height="180"
   alt="GitHub Streak"
 />
@@ -404,7 +404,7 @@ A small third-person action experience exploring **Unreal Engine, level design a
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&hide_border=true&theme=transparent&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeshKaswan&layout=donut&hide_border=true&theme=transparent&langs_count=8"
   height="180"
   alt="Top Languages"
 />
@@ -425,7 +425,7 @@ A small third-person action experience exploring **Unreal Engine, level design a
 <br>
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6"
+  src="https://github-profile-trophy.vercel.app/?username=AadeshKaswan&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6"
   alt="GitHub Trophies"
 />
 
