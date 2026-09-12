@@ -1,60 +1,59 @@
-<!-- ========================================================= -->
-<!--                         HERO                              -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<br>
-
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=HELLO%2C+WORLD.;I'M+AADESH+KASWAN.;FULL-STACK+DEVELOPER.;DESIGNER+%26+BUILDER."
-  alt="Typing Header"
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=HELLO%2C+WORLD.;I'M+AADESH+KASWAN.;FULL-STACK+DEVELOPER.;DESIGNER+%26+BUILDER."
+alt="Hello World — Aadesh Kaswan"
 />
 
 <br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2&section=header"
-  width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2&section=header"
+width="100%"
+alt=""
 />
 
 <br><br>
 
 <a href="mailto:kaswanaadesh@gmail.com">
-<img src="https://img.shields.io/badge/MAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+  <img
+    src="https://img.shields.io/badge/MAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
+    alt="Email"
+  />
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+<a href="YOUR_LINKEDIN_URL">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+    alt="LinkedIn"
+  />
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<a href="YOUR_PORTFOLIO_URL">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
+    alt="Portfolio"
+  />
 </a>
 
 <br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=AadeshKaswan&style=for-the-badge&color=0D0D0D&label=PROFILE+VIEWS"
-  alt="Profile Views"
+src="https://komarev.com/ghpvc/?username=AadeshKaswan&style=for-the-badge&color=0D0D0D&label=PROFILE+VIEWS"
+alt="Profile Views"
 />
 
 </div>
 
-<br><br>
+<br>
 
+---
 
-<!-- ========================================================= -->
-<!--                    IDENTITY BLOCK                         -->
-<!-- ========================================================= -->
-
-<table align="center">
-<tr>
-<td width="100%" align="center">
+<div align="center">
 
 # AADESH KASWAN
 
-### `FULL-STACK DEVELOPER` &nbsp;·&nbsp; `UI/UX` &nbsp;·&nbsp; `CREATIVE TECHNOLOGY`
+### `FULL-STACK DEVELOPER`  ·  `UI/UX`  ·  `CREATIVE TECHNOLOGY`
 
 <br>
 
@@ -62,26 +61,17 @@
 
 <br>
 
-`IDEA` &nbsp; → &nbsp; `DESIGN` &nbsp; → &nbsp; `CODE` &nbsp; → &nbsp; `SHIP`
+`IDEA`   →   `DESIGN`   →   `CODE`   →   `SHIP`
 
-</td>
-</tr>
-</table>
+<br><br>
 
-<br>
-
-<div align="center">
-
-`INDIA` &nbsp;&nbsp;•&nbsp;&nbsp; `CS STUDENT` &nbsp;&nbsp;•&nbsp;&nbsp; `3RD YEAR`
+`INDIA`  •  `COMPUTER SCIENCE`  •  `3RD YEAR`
 
 </div>
 
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                         ABOUT                             -->
-<!-- ========================================================= -->
+---
 
 <div align="center">
 
@@ -98,16 +88,16 @@
 
 ### `01 / DEVELOPMENT`
 
-I build full-stack web applications with a strong focus on **frontend engineering, architecture and user experience.**
+I build full-stack web applications with a strong focus on **frontend engineering, architecture, performance, and user experience.**
 
 Currently working deeper with:
 
 <br>
 
-<img src="https://img.shields.io/badge/REACT-18181B?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/NEXT.JS-18181B?style=flat-square&logo=next.js&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-18181B?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/NODE.JS-18181B?style=flat-square&logo=node.js&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/REACT-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/NEXT.JS-18181B?style=flat-square&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/NODE.JS-18181B?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
 
 </td>
 
@@ -115,15 +105,15 @@ Currently working deeper with:
 
 ### `02 / DESIGN`
 
-I care about the part most people notice before they read the code.
+I care about the part most people notice **before they read the code.**
 
 **Typography. Layout. Motion. Interaction. Visual hierarchy.**
 
-I enjoy taking an idea and turning it into something that feels intentional.
+I enjoy taking an idea and turning it into something that feels **intentional, polished, and alive.**
 
 <br>
 
-`UI/UX` &nbsp; `FIGMA` &nbsp; `MOTION` &nbsp; `VISUAL DESIGN`
+`UI/UX`   `FIGMA`   `MOTION`   `VISUAL DESIGN`
 
 </td>
 
@@ -132,10 +122,7 @@ I enjoy taking an idea and turning it into something that feels intentional.
 
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                       CURRENTLY                           -->
-<!-- ========================================================= -->
+---
 
 <div align="center">
 
@@ -143,8 +130,9 @@ I enjoy taking an idea and turning it into something that feels intentional.
 
 <br>
 
-<table>
+<table align="center">
 <tr>
+
 <td align="center" width="180">
 
 ### 🎓
@@ -184,6 +172,7 @@ Design × Code
 Unreal Engine
 
 </td>
+
 </tr>
 </table>
 
@@ -191,10 +180,7 @@ Unreal Engine
 
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                     CONTRIBUTIONS                        -->
-<!-- ========================================================= -->
+---
 
 <div align="center">
 
@@ -203,8 +189,8 @@ Unreal Engine
 <br>
 
 <img
-  src="https://raw.githubusercontent.com/AadeshKaswan/AadeshKaswan/output/github-contribution-grid-snake-dark.svg"
-  alt="Contribution Snake"
+src="https://raw.githubusercontent.com/AadeshKaswan/AadeshKaswan/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
 />
 
 <br><br>
@@ -217,10 +203,7 @@ A little green pixel every time I convince myself I should build one more thing.
 
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                      TECH STACK                          -->
-<!-- ========================================================= -->
+---
 
 <div align="center">
 
@@ -237,15 +220,15 @@ A little green pixel every time I convince myself I should build one more thing.
 
 <br>
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/TYPESCRIPT-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
 
 </td>
 
@@ -255,15 +238,15 @@ A little green pixel every time I convince myself I should build one more thing.
 
 <br>
 
-<img src="https://img.shields.io/badge/REACT-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/REACT-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NEXT.JS-18181B?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/NEXT.JS-18181B?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/TAILWIND-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/TAILWIND-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
 
 </td>
 
@@ -273,15 +256,15 @@ A little green pixel every time I convince myself I should build one more thing.
 
 <br>
 
-<img src="https://img.shields.io/badge/NODE.JS-18181B?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/NODE.JS-18181B?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/EXPRESS-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/EXPRESS-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MONGODB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MONGODB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
 
 </td>
 
@@ -292,27 +275,24 @@ A little green pixel every time I convince myself I should build one more thing.
 
 ### `DESIGN`
 
-<img src="https://img.shields.io/badge/FIGMA-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/PHOTOSHOP-18181B?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
-<img src="https://img.shields.io/badge/PREMIERE_PRO-18181B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
+<img src="https://img.shields.io/badge/FIGMA-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/PHOTOSHOP-18181B?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/PREMIERE_PRO-18181B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro" />
 
 <br><br>
 
 ### `TOOLS`
 
-<img src="https://img.shields.io/badge/GIT-18181B?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VERCEL-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/UNREAL_ENGINE-18181B?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GIT-18181B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/VERCEL-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+<img src="https://img.shields.io/badge/UNREAL_ENGINE-18181B?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine" />
 
 </div>
 
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                     BUILDING                            -->
-<!-- ========================================================= -->
+---
 
 <div align="center">
 
@@ -320,7 +300,7 @@ A little green pixel every time I convince myself I should build one more thing.
 
 <br>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="33%" valign="top">
@@ -329,7 +309,9 @@ A little green pixel every time I convince myself I should build one more thing.
 
 ## Portfolio
 
-A highly interactive personal website combining **development, design and visual storytelling.**
+A highly interactive personal website combining **development, design, and visual storytelling.**
+
+<br>
 
 `NEXT.JS`
 
@@ -345,7 +327,9 @@ A highly interactive personal website combining **development, design and visual
 
 ## Full-Stack Product
 
-A serious application built to understand how real products are designed, engineered and deployed.
+A serious application built to understand how real products are **designed, engineered, and deployed.**
+
+<br>
 
 `REACT`
 
@@ -361,7 +345,9 @@ A serious application built to understand how real products are designed, engine
 
 ## Ashen Dawn
 
-A small third-person action experience exploring **Unreal Engine, level design and gameplay systems.**
+A small third-person action experience exploring **Unreal Engine, level design, and gameplay systems.**
+
+<br>
 
 `UNREAL`
 
@@ -378,10 +364,7 @@ A small third-person action experience exploring **Unreal Engine, level design a
 
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                     GITHUB STATS                         -->
-<!-- ========================================================= -->
+---
 
 <div align="center">
 
@@ -390,33 +373,30 @@ A small third-person action experience exploring **Unreal Engine, level design a
 <br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=AadeshKaswan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&rank_icon=github&custom_title=GitHub%20Activity"
-  height="180"
-  alt="GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=AadeshKaswan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&rank_icon=github&custom_title=GitHub%20Activity"
+height="180"
+alt="GitHub Activity"
 />
 
 <img
-  src="https://streak-stats.demolab.com?user=AadeshKaswan&theme=transparent&hide_border=true&short_numbers=true"
-  height="180"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=AadeshKaswan&theme=transparent&hide_border=true&short_numbers=true"
+height="180"
+alt="GitHub Streak"
 />
 
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeshKaswan&layout=donut&hide_border=true&theme=transparent&langs_count=8"
-  height="180"
-  alt="Top Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadeshKaswan&layout=donut&hide_border=true&theme=transparent&langs_count=8"
+height="180"
+alt="Top Languages"
 />
 
 </div>
 
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                       TROPHIES                           -->
-<!-- ========================================================= -->
+---
 
 <div align="center">
 
@@ -425,41 +405,35 @@ A small third-person action experience exploring **Unreal Engine, level design a
 <br>
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=AadeshKaswan&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6"
-  alt="GitHub Trophies"
+src="https://github-profile-trophy.vercel.app/?username=AadeshKaswan&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6"
+alt="GitHub Trophies"
 />
 
 </div>
 
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                       QUOTE                              -->
-<!-- ========================================================= -->
+---
 
 <div align="center">
 
 <img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"
-  alt="Quote"
+src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"
+alt="Random Quote"
 />
 
 </div>
 
 <br><br>
 
-
-<!-- ========================================================= -->
-<!--                         FOOTER                           -->
-<!-- ========================================================= -->
+---
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:27272A&height=120&section=footer"
-  width="100%"
-  alt="Footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:27272A&height=120&section=footer"
+width="100%"
+alt="Footer"
 />
 
 </div>
